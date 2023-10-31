@@ -1,0 +1,52 @@
+[
+    {
+        "id": "1",
+        "cover": "https://i.ibb.co/wQrNZpr/Rectangle-1.png",
+        "title": "Fitness and  Holistic Approach",
+        "author_img": "https://i.ibb.co/R7Mzvxv/Ellipse-1.png",
+        "author": "Emma Wellness",
+        "posted_date": "2023-06-19",
+        "reading_time": "7 ",
+        "hashtags": ["fitness", "wellness", "health"]
+    },
+    {
+        "id": "2",
+        "cover": "https://i.ibb.co/wQrNZpr/Rectangle-1.png",
+        "title": "Fitness and  Approach",
+        "author_img": "https://i.ibb.co/R7Mzvxv/Ellipse-1.png",
+        "author": "Emma Wellness",
+        "posted_date": "2023-06-19",
+        "reading_time": "3 ",
+        "hashtags": ["fitness", "wellness", "health"]
+    },
+    {
+        "id": "3",
+        "cover": "https://i.ibb.co/wQrNZpr/Rectangle-1.png",
+        "title": "Fitness  Holistic Approach",
+        "author_img": "https://i.ibb.co/R7Mzvxv/Ellipse-1.png",
+        "author": "Emma Wellness",
+        "posted_date": "2023-06-19",
+        "reading_time": "9 ",
+        "hashtags": ["fitness", "wellness", "health"]
+    },
+    {
+        "id": "4",
+        "cover": "https://i.ibb.co/wQrNZpr/Rectangle-1.png",
+        "title": " A Holistic Approach",
+        "author_img": "https://i.ibb.co/R7Mzvxv/Ellipse-1.png",
+        "author": "Emma Wellness",
+        "posted_date": "2023-06-19",
+        "reading_time": "10",
+        "hashtags": ["fitness", "wellness", "health"]
+    },
+    {
+        "id": "5",
+        "cover": "https://i.ibb.co/wQrNZpr/Rectangle-1.png",
+        "title": "Fitness and Wellbeing",
+        "author_img": "https://i.ibb.co/R7Mzvxv/Ellipse-1.png",
+        "author": "Emma Wellness",
+        "posted_date": "2023-06-19",
+        "reading_time": "15 ",
+        "hashtags": ["fitness", "wellness", "health"]
+    }
+]
